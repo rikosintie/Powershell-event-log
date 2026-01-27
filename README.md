@@ -9,9 +9,10 @@ git clone https://github.com/rikosintie/Powershell-event-log.git
 2.	Run in PowerShell:
 
    cd Powershell-event-log
+   
    .\Get-NmapWerCrashes.ps1
 
-4.	Grab the CSV from:
+3. Grab the CSV from:
 c:\Users\<you>\nmap_crash_report.csv
 
 
