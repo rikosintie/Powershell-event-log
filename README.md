@@ -3,12 +3,14 @@ PowerShell scripts to query Windows logs
 
 How to use
 1.	Clone the repo
-git clone 
+
+git clone https://github.com/rikosintie/Powershell-event-log.git
 
 2.	Run in PowerShell:
-.\Get-NmapWerCrashes.ps1
+   cd Powershell-event-log
+   .\Get-NmapWerCrashes.ps1
 
-3.	Grab the CSV from:
+4.	Grab the CSV from:
 c:\Users\<you>\nmap_crash_report.csv
 
 
