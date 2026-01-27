@@ -7,6 +7,7 @@ How to use
 git clone https://github.com/rikosintie/Powershell-event-log.git
 
 2.	Run in PowerShell:
+
    cd Powershell-event-log
    .\Get-NmapWerCrashes.ps1
 
